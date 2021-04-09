@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LoadingPage.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>MapPage.qml</file>
+        <file>SlideButtonPage.qml</file>
+        <file>BlurryPage.qml</file>
+        <file>MediaPlayerPage.qml</file>
+        <file>NavPage.qml</file>
+        <file>SpringSlidePage.qml</file>
+        <file>PictureCard.qml</file>
+        <file>ControlOnBorder.qml</file>
+    </qresource>
+</RCC>

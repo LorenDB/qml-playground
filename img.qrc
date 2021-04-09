@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>microphone.png</file>
+        <file>microphone.svg</file>
+        <file>pause.png</file>
+        <file>pause.svg</file>
+        <file>pic.jpg</file>
+        <file>play.png</file>
+        <file>play.svg</file>
+        <file>bw10.jpg</file>
+        <file>bw15.jpg</file>
+        <file>bw18.jpg</file>
+        <file>bw19.jpg</file>
+        <file>bw5.jpg</file>
+        <file>AlbumArt.jpg</file>
+        <file>shapes.png</file>
+    </qresource>
+</RCC>
