@@ -14,7 +14,7 @@ public:
     explicit AudioLevels(QObject *parent = nullptr);
 
     int inputLevel() const { return m_inputLevel; }
-    void setInputLevel(int newLevel) { m_inputLevel = newLevel; emit inputLevelChanged(); }
+    void setInputLevel(int newLevel);
 
 signals:
     void inputLevelChanged();
