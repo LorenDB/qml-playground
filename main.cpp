@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
 //    qmlRegisterSingletonType<AudioLevels>("confetti", 1, 0, "AudioLevels", [](QQmlEngine *, QJSEngine *) -> QObject * {
 //        return &al;
 //    });
-    qmlRegisterType<AudioLevels>("confetti", 1, 0, "AudioLevels");
+    qmlRegisterType<AudioLevels>("qml_playground", 1, 0, "AudioLevels");
 
     QQmlApplicationEngine engine;
     const QUrl url(QStringLiteral("qrc:/main.qml"));

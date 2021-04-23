@@ -2,7 +2,7 @@ import QtQuick 2.12
 import QtQuick.Controls 2.12
 import QtQuick.Controls.Universal 2.12
 import QtGraphicalEffects 1.0
-import confetti 1.0
+import qml_playground 1.0
 
 BlurryPage {
     id: pageRoot
